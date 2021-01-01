@@ -3,8 +3,7 @@
 <suite name="Suite1">
   <test name="Sanity Tests">
     <classes>
-      <class name="restAssuredAPITesting.TC001_GET_Test"/>
-      <class name="restAssuredAPITesting.TC001_SET_Test"/>
+      <class name="restAssuredAPITesting.Test_GET"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

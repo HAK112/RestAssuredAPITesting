@@ -3,7 +3,7 @@
 <suite name="Suite2">
   <test name="Smoke Tests">
     <classes>
-      <class name="test/java/RestAssuredAPITesting/TC001_Get_Test.java"/>
+      <class name="restAssuredAPITesting.Test_Get"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

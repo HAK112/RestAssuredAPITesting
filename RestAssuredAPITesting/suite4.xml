@@ -3,9 +3,7 @@
 <suite name="Suite3">
 	<test name="Sanity+Smoke+UI Test">
 		<classes>
-			<class name="test/java/RestAssuredAPITesting/TC001_Get_Test.java"/>
-			<class name="test/java/RestAssuredAPITesting/TC001_Get_Test.java"/>
-			<class name="test/java/RestAssuredAPITesting/TC001_Get_Test.java"/>
+			<class name="restAssuredAPITesting.Test_GET"/>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
